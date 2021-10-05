@@ -1,4 +1,4 @@
-# SUDOxHacktoberFest
+# SUDOxHacktoberfest
 
 The OpenSource community collaboratively works on OpenSource software and resources to make it available for use, modification, and distribution with its original rights. Developers can update a program by debugging, removing unwanted errors or warnings, and fixing modules that aren’t working appropriately. They can also modify software that best fits their needs and control its distribution.
 
